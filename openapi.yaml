@@ -3,7 +3,7 @@ info:
   title: Book Store
   description: API for Book Store
   version: 1.0.0
-host: book.kabuku.co.jp
+host: book-store.kabuku.co.jp
 basePath: /api/v1
 schemes:
   - http
